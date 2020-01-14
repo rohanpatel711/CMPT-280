@@ -1,0 +1,9 @@
+\frametitle{Exercise 2}
+Write code to write the values of the following variables to a file:
+\begin{lstlisting}[basicstyle=\tt\scriptsize]
+String s = "The answer to the ultimate question of life,"+
+           "the universe, and everything is:";
+int fortyTwo = 42;
+float fortyTwoPointZero = 42.0;
+\end{lstlisting}
+Make sure that each variable's value is on a separate line.

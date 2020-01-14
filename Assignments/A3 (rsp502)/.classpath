@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="lib280-asn3/lib280-asn3/src/|lib280-asn3/__MACOSX/" kind="src" path=""/>
+	<classpathentry kind="src" path="lib280-asn3/lib280-asn3/src"/>
+	<classpathentry kind="src" path="lib280-asn3/__MACOSX">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
